@@ -95,7 +95,7 @@ export default function Home() {
         </div>
 
         {/* Features */}
-        <div className="w-fit mx-auto mt-10 flex flex-col 2xl:flex-row gap-8">
+        <div className="mt-10 flex flex-col justify-center items-center 2xl:flex-row gap-8">
           <Feature
             title="Personalization"
             description="Any story, in any voice bring storytelling to life with loved ones voices"
